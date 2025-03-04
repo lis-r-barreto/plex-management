@@ -1,4 +1,4 @@
-# Video File Management Script
+# Plex Management Scripts: A set of tools to automate file transfers and cleanup for Plex Media Server
 
 ## Overview
 
